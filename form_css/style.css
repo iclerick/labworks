@@ -1,0 +1,43 @@
+body  {
+  font-family: sans-serif;
+  background-color: #eeeeee;
+  font-weight: bold;
+}
+
+.content  {
+  box-sizing: border-box;
+  width: 600px;
+  margin: auto;
+  background-color: #ffffff;
+}
+
+h1  {
+  background-color: #64404f;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+fieldset  {
+  border: 0px;
+  padding-left: 40px;
+}
+
+label {
+}
+
+#id_name {
+  width: 510px;
+  padding: 5px;
+}
+
+select {
+  width: 520px;
+  border-radius: 5px;
+}
+
+textarea  {
+  width: 520px;
+  resize: none;
+}
