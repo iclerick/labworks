@@ -1,0 +1,95 @@
+header {
+    background-color: yellow;
+    text-align: center;
+    padding: 10px 15px;
+    letter-spacing: 4px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+header p  {
+  letter-spacing: 2px;
+  font-size: 16px;
+  background: #f43356;
+  color: #ffffff;
+
+}
+
+footer {
+    background-color: pink;
+}
+
+header button,
+footer button {
+  padding: 15px;
+  font-size: 16px;
+  background: blue;
+  color: #ffffff;
+  margin: 0 20px;
+}
+
+button {
+  border: none;
+  padding: 15px;
+}
+
+.sidebar  {
+  float:left;
+  padding: 15px;
+  background: #00ff00;
+  width:  300px;
+  box-sizing:  border-box;
+}
+
+.content  {
+  margin: 0 0 0 300px;
+  padding: 0 30px;
+}
+
+.section  {
+  margin-bottom: 30px;
+}
+
+.content .morebutton  {
+  background: #f3f3f3;
+  border: solid 2px #f43356;
+  font-size: 14px;
+}
+
+.content button {
+  padding:  10px 40px;
+  background: #f43356;
+  border: solid 2px #000;
+  font-size: 20px;
+
+}
+
+body  {
+  background: url('background.jpg') no-repeat;
+  background-position:  center center;
+  background-size:  cover;
+  color:
+
+}
+
+a {
+  color: blue;
+}
+
+a:visited {
+  color: darkgrey;
+}
+
+ol  {
+  list-style: none;
+  margin: 0px auto;
+}
+
+ol li {
+  margin-bottom: 15px auto;
+}
+
+ol div {
+  font-size:  12px;
+  color: #ffffff;
+}
